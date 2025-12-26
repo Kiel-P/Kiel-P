@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![](https://nirzak-streak-stats.vercel.app/?user=KIHEO&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KIHEO&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=KIHEO&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## Donasi 
@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ![https://instagram.com/kiky_hendry](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)  ![https://github.com/Kiel-P]({https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white})
+>>>>>>> 1b6e7ddf4cdfb1120d9ac0eec0373419fa4b7340 -->
