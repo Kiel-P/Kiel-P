@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=KIHEO&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## Donasi 
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@kikyhendry) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kikyhendry) 
 
   
 
