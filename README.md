@@ -33,6 +33,6 @@ Here are some ideas to get you started:
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@kikyhendry) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <!-- ![https://instagram.com/kiky_hendry](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)  ![https://github.com/Kiel-P]({https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white})
->>>>>>> 1b6e7ddf4cdfb1120d9ac0eec0373419fa4b7340 -->
+
