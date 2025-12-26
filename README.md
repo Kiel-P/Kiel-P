@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'm Kiki Hendri Prasetyo 👋
 
 <!--
 **Kiel-P/Kiel-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ![goku](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDl3MjZjdGRzd2dvMGlsNGppbXRyaHVoNjVqMmphdHB6YzBzZ20zbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KFKwyPoW16mIChrUcE/giphy.gif)
+
+### Connect with Me
+
+![https://instagram.com/kiky_hendry](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)  ![https://github.com/Kiel-P](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
