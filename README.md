@@ -32,6 +32,13 @@ Here are some ideas to get you started:
   ## Donasi 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kikyhendry) 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kiheo/Kiheo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kiheo/Kiheo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kiheo/Kiheo/output/pacman-contribution-graph.svg">
+</picture>
+
+
   
 
 <!-- ![https://instagram.com/kiky_hendry](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)  ![https://github.com/Kiel-P]({https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white})
